@@ -3,7 +3,8 @@
 ## Overview
 An interactive Power BI dashboard that analyzes the sales performance of a retail company across six pages: executive KPIs, products, discounts and pricing, regions, customers, and shipping operations. The goal is to show where the company makes and loses money and which actions would improve profitability.
 
-![Home Page](images/Home_Page.png)
+Dashboard ScreenShots/Home Page.png
+
 
 ## Business Questions
 1. How are total sales, profit, and profit margin performing, and how do they change month to month?
