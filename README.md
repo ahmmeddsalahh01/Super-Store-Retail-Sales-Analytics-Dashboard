@@ -46,7 +46,8 @@ Sales by state or province, region, and manager.
 ### 5. Customer Analysis
 Total customers, orders, AOV, loss-making customers, sales by customer segment, and the top 10 customers by sales.
 
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](<img width="1237" height="693" alt="Customer Analysis" src="https://github.com/user-attachments/assets/2793ae1e-cf55-4ee7-a1a6-599260ed6dc2" />
+)
 
 ### 6. Shipping and Operations
 Average shipment duration by ship mode and order priority, sales by ship mode, and shipping cost by product category.
