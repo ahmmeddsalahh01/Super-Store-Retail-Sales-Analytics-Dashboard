@@ -3,7 +3,6 @@
 ## Overview
 An interactive Power BI dashboard that analyzes the sales performance of a retail company across six pages: executive KPIs, products, discounts and pricing, regions, customers, and shipping operations. The goal is to show where the company makes and loses money and which actions would improve profitability.
 
-Dashboard ScreenShots/Home Page.png
 
 
 ## Business Questions
@@ -27,33 +26,32 @@ Dashboard ScreenShots/Home Page.png
 ### 1. Executive Overview
 KPI cards for Total Sales, AOV, Profit Margin, Total Orders, Total Customers, and Total Profit, plus a monthly sales trend.
 
-![Executive Overview](images/Executive_Overview.png)
+
 
 ### 2. Product Performance
 Total profit by sub-category, and sales by product category and product container.
 
-![Product Performance](images/Product_Performance.png)
+
 
 ### 3. Discounts and Pricing
 Very high discount orders and profit, sales, profit, and margin by unit price band, and profit margin by discount level.
 
-![Discounts and Pricing](images/Discounts_and_Pricing.png)
+
 
 ### 4. Regional Performance
 Sales by state or province, region, and manager.
 
-![Regional Performance](images/Regional_Performance.png)
+
 
 ### 5. Customer Analysis
 Total customers, orders, AOV, loss-making customers, sales by customer segment, and the top 10 customers by sales.
 
-![Customer Analysis](<img width="1237" height="693" alt="Customer Analysis" src="https://github.com/user-attachments/assets/2793ae1e-cf55-4ee7-a1a6-599260ed6dc2" />
-)
+
 
 ### 6. Shipping and Operations
 Average shipment duration by ship mode and order priority, sales by ship mode, and shipping cost by product category.
 
-![Shipping and Operations](images/Shipping_and_Operations.png)
+
 
 ## Key Findings
 
